@@ -3,3 +3,5 @@ Voy a escribir algo y Cristian escribirá algo distinto
 =======
 Ho jalas que funcione
 >>>>>>> 3c67520ca90d054a9e08580924f91a861e762d2f
+
+Con el error se ve más guonito XD
